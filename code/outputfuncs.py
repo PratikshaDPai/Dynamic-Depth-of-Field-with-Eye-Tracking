@@ -1,3 +1,5 @@
+# For Peer Review - Suchith Suresh
+# Import required libraries
 import cv2 as cv
 import globalvars
 import numpy as np

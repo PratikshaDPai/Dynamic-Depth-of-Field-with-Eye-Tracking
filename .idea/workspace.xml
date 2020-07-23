@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ce2fffe-c5ce-4e06-9af3-e8f89e36c3dc" name="Default Changelist" comment="Minor changes, Improving readability">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/outputfuncs.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/outputfuncs.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
