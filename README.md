@@ -9,6 +9,7 @@ The functions in the ‘outputfuncs.py’ file are accessed/executed by clicking
 OR
 2.	Directory --> View Video --> Process Video --> Output Video
 (Access ‘mouse_move’, ‘output_win’)
+
 The Process Video step will take anywhere from 30 to 200 seconds, please check the python console for progress
 
 
