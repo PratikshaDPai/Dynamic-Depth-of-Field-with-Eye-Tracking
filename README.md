@@ -1,3 +1,7 @@
+# Please Review file 'outputfuncs.py'
+---
+# To run the code, please clone the repo and execute the 'main.py' file
+
 # Dynamic-Depth-of-Field-with-Eye-Tracking
 ### ECE697 - Capstone Project
 
