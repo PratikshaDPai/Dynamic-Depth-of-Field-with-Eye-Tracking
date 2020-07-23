@@ -2,6 +2,26 @@
 ---
 # To run the code, please clone the repo and execute the 'main.py' file
 
+NOTES: In the GUI, choose the ‘data’ folder as the directory as it contains the required input frames and depth maps data.
+The functions in the ‘outputfuncs.py’ file are accessed/executed by clicking the following buttons from the main window: 
+1.	Directory  Preview  Generate
+(Access ‘mouse_move’, ‘genpreview’, ‘preview_win’)
+OR
+2.	Directory  View Video  Process Video  Output Video
+(Access ‘mouse_move’, ‘output_win’)
+
+
+List of libraries required are :
+1.	tqdm
+2.	time
+3.	cv2 (opencv-python)
+4.	numpy
+5.	tkinter
+6.	glob
+7.	copy
+8.	math
+
+
 # Dynamic-Depth-of-Field-with-Eye-Tracking
 ### ECE697 - Capstone Project
 
