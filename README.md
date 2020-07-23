@@ -4,10 +4,10 @@
 
 NOTES: In the GUI, choose the ‘data’ folder as the directory as it contains the required input frames and depth maps data.
 The functions in the ‘outputfuncs.py’ file are accessed/executed by clicking the following buttons from the main window: 
-1.	Directory  Preview  Generate
+1.	Directory --> Preview --> Generate
 (Access ‘mouse_move’, ‘genpreview’, ‘preview_win’)
 OR
-2.	Directory  View Video  Process Video  Output Video
+2.	Directory --> View Video --> Process Video --> Output Video
 (Access ‘mouse_move’, ‘output_win’)
 
 
